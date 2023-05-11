@@ -1,5 +1,10 @@
 1.8.XXX
 欢迎关注
 
+1.8.211
+WangShaolin JNICC
+可混淆引依赖包，支持按平台授权，支持混淆war、jar以及spring boot jar包。
+
 1.8.202
-JNICC WSL
+WangShaolin JNICC
+可混淆引依赖包，支持按平台授权，支持混淆war、jar以及spring boot jar包。
